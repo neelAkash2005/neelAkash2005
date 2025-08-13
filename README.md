@@ -19,7 +19,7 @@ I am AKASH PODDAR<!-- Profile README: Akash Poddar -->
 ---
 
 ### 🧭 About Me
-- 🎓 Final-year **BCA** student collaborating with a team of 5 on a capstone project
+- 🎓 Final-year **BCA** student working on innovative and iteresting projects
 - 🐍 I enjoy **Python** the most — automation, mini-apps, scripts, and data tasks
 - 🌐 Learning **Full‑Stack Web** (HTML/CSS/JS → React) and tinkering with **AI APIs**
 - 🧩 I like solving problems and documenting what I learn
@@ -67,9 +67,9 @@ I am AKASH PODDAR<!-- Profile README: Akash Poddar -->
 
 ### 🌐 Connect
 <p>
-  <a href="mailto:akash@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="10akashpoddar2005@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <!-- Replace with your real LinkedIn URL -->
-  <a href="https://linkedin.com/in/akash-poddar" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="akash-poddar-653380282" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 ---
