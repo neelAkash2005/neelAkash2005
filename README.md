@@ -91,24 +91,6 @@ Because coding isn’t just about the semicolons — it’s about the laughs, th
 
 > ⚡ *Pro tip:* Caffeine first, compiler later.
 
-<!-- Inline animated wave footer -->
-<div align="center">
-  <svg viewBox="0 0 1200 120" preserveAspectRatio="none" style="width:100%; height:120px; display:block">
-    <defs>
-      <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%" stop-color="#4facfe"/>
-        <stop offset="100%" stop-color="#00f2fe"/>
-      </linearGradient>
-    </defs>
-    <path id="wave" d="M0,60 C150,80 300,40 450,60 C600,80 750,40 900,60 C1050,80 1125,70 1200,60 L1200,120 L0,120 Z" fill="url(#g)">
-      <animate attributeName="d" dur="8s" repeatCount="indefinite"
-        values="
-        M0,60 C150,80 300,40 450,60 C600,80 750,40 900,60 C1050,80 1125,70 1200,60 L1200,120 L0,120 Z;
-        M0,65 C150,45 300,85 450,55 C600,35 750,95 900,50 C1050,30 1125,70 1200,65 L1200,120 L0,120 Z;
-        M0,60 C150,80 300,40 450,60 C600,80 750,40 900,60 C1050,80 1125,70 1200,60 L1200,120 L0,120 Z"/>
-    </path>
-  </svg>
-</div>
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:4facfe,100:00f2fe&section=footer"/>
 
 
