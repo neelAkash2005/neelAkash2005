@@ -8,10 +8,11 @@
 
 
 <p align="center">
-  <img src="https://files.oaiusercontent.com/file_00000000d1d861fbb750274fbd4121f5" alt="I Speak Fluent Python Sticker" width="220">
+  <img src="https://raw.githubusercontent.com/AkashPoddar/AkashPoddar/main/assets/python-sticker.png"  width="220">
 </p>
 
-<h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Hey+there%2C+Let's+Learn+and+Explore+more+✈️;নমস্কার+🙏" alt="Typing SVG" /></h3>
+
+<h5 align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Hey+there%2C+Let's+Learn+and+Explore+✈️;নমস্কার+🙏" alt="Typing SVG" /></h5>
 
 ---
 
