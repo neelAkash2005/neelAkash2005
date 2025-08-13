@@ -2,8 +2,14 @@
 <h2 align="center"> 😎 a curious creator who loves turning ideas into interactive experiences 😎 </h2>
 
 <p align="center">
-  <em>BCA final year Student 🎓 • Python Enthusiast 🐍 • Web an Ai explorer 🚀  • Open Source contributor 🌟 </em>
+  <em>BCA final year Student 🎓 • Python Enthusiast 🐍 • Web and Ai explorer 🚀  • Open Source contributor 🌟 </em>
 </p>
+
+
+<p align="center">
+  <img src="assets/coding.gif"  width="300">
+</p>
+
 
 ---
 
@@ -36,7 +42,7 @@
 ### 🚀 What I'm Working On  
 - 📌  Python-based application with Tkinter UI enhancement   
 - 📚 Learning **React** to level up my frontend skills  
-- 🧠 Experimenting with **AI APIs** in side projects
+- 🧠 Experimenting with **AI APIs** inside my projects
 - 🎯 Brushing up on Oracle SQL for robust database design
 - 📚 Leveling up in *Java* and *C++* for competitive programming and better problem solving
 
