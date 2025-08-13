@@ -67,7 +67,7 @@
 
 ### 🌐 Connect With Me  
 <p align="left">
-  <a href="https://www.linkedin.com/in/akash-poddar-653380282">
+  <a href="https://www.linkedin.com/in/akashpoddar10">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:10akashpoddar2005@gmail.com">
