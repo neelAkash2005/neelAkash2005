@@ -90,6 +90,7 @@ Because coding isn’t just about the semicolons — it’s about the laughs, th
 ---
 
 > ⚡ *Pro tip:* Caffeine first, compiler later.
+ <br>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:4facfe,100:00f2fe&section=footer"/>
 
