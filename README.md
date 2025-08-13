@@ -1,95 +1,74 @@
-
-I am AKASH PODDAR
-
-
-<h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"/> 
-  Hey, I'm <span style="color:#ff4dff;">Akash</span> 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"/>
-</h1>
+<h1 align="center">Hey there,  I'm AKASH 👋</h1>
+<h2 align="center">a curious creator who loves turning ideas into interactive experiences </h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&width=435&lines=Python+Developer;Tkinter+UI+Designer;Tech+Enthusiast;Always+Learning+New+Things" alt="Typing Animation" />
+  <em>BCA final year Student 🎓 • Python Enthusiast 🐍 • Web an Ai explorer 🚀  • Open Source contributor 🌟 </em>
 </p>
 
 ---
 
-<!-- Badges -->
-<p align="center">
-  <img src="https://img.shields.io/github/followers/neelAkash2005?label=Followers&style=social" alt="GitHub Followers"/>
-  <img src="https://komarev.com/ghpvc/?username=neelAkash2005&color=blueviolet" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/stars/neelAkash2005?affiliations=OWNER&style=social" alt="Stars"/>
-</p>
+### 💡 About Me  
+- 🎓 Final-year BCA student working on cool and innovative projects  
+- 🐍 Love building things in **Python** (automation, games, data stuff, you name it)  
+- 🌱 Currently exploring **Web Development & AI**  
+- 💬 Ask me about `Python`, `GitHub`, or `how to debug weird errors at 2AM`  
+- ⚡ Fun fact: 💻 I once fixed a bug at 3 Am .. in my dreams
+- Lets dive into ☕ coffee-fueled coding sessions , where the caffeine hits before the compilor does 
 
 ---
 
-## 💻 About Me
-
-Name: Akash  
-From: India 🇮🇳  
-Speciality: Python, Tkinter UI, Creative Tools  
-Current Project: StegaSeal (Image Steganography Tool)  
-Hobbies: Coding, UI Designing, Debugging life  
-Fun Fact: My "quick fixes" sometimes become "permanent solutions" 😆  
-
-
----
-
-## 🛠 Tech Arsenal
-
-<p align="center">
+### 🛠️ Languages & Tools  
+<p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tkinter-ffdd54?style=for-the-badge&logo=python&logoColor=black"/>
-  <img src="https://img.shields.io/badge/HTML5-e34f26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572b6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Oracle%20SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
 </p>
 
 ---
 
-## 📂 Featured Projects
-
-* 🔹 [**StegaSeal**](https://github.com/neelAkash2005/StegaSeal) – Image Steganography with theme switching
-* 🔹 [**Tkinter UI Experiments**](https://github.com/neelAkash2005/tkinter-ui) – Modern Python GUI designs
+### 🚀 What I'm Working On  
+- 📌  Python-based application with Tkinter UI enhancement   
+- 📚 Learning **React** to level up my frontend skills  
+- 🧠 Experimenting with **AI APIs** in side projects
+- 🎯 Brushing up on Oracle SQL for robust database design
+- 📚 Leveling up in *Java* and *C++* for competitive programming and better problem solving
 
 ---
 
-## 📊 GitHub Stats
-
+### 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=neelAkash2005&show_icons=true&theme=radical" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=neelAkash2005&theme=radical" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AkashPoddar&show_icons=true&theme=tokyonight" alt="GitHub stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AkashPoddar&theme=tokyonight" alt="GitHub streak"/>
 </p>
 
 ---
 
-## 🎯 Fun Zone
-
-<p align="center">
-  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="250px"/>
-  <img src="https://media.giphy.com/media/l41YtZOb9EUABnuqA/giphy.gif" width="250px"/>
+### 🌐 Connect With Me  
+<p align="left">
+  <a href="www.linkedin.com/in/akash-poddar-653380282">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="10akashpoddar2005@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-## 🌐 Connect With Me
+### 🤹 Developer's Playground
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/yourusername"><img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://instagram.com/yourusername"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-</p>
+Because coding isn’t just about the semicolons — it’s about the laughs, the caffeine, and the chaos in between.  
+
+
+| (https://media.giphy.com/media/3oEduSbSGpGaRX2Vri/giphy.gif) | (https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif) |(https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif) | (https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif) |
 
 ---
 
-<p align="center"><i>"Talk is cheap. Show me the code."</i> – Linus Torvalds</p>
-```
-
-### ✨ What’s New in This Version:
-
-* **Typing animation** for your intro
-* **GIF waving hand emoji** for a friendly welcome
-* **Live GitHub streak stats**
-* **Fun GIF stickers** section for personality
-* **Neon theme & centered layout** for a hacker vibe
-
-If you want, I can **also add an animated snake** that eats your GitHub contribution graph — that’s a popular “wow” effect on profiles.
+> ⚡ *Pro tip:* Caffeine first, compiler later.
