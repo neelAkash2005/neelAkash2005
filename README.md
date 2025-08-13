@@ -1,5 +1,5 @@
-<h1 align="center">Hey there,  I'm AKASH 👋</h1>
-<h2 align="center">a curious creator who loves turning ideas into interactive experiences </h2>
+<h1 align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Hey+there%2C+I'm+Akash+👋;Welcome+to+my+GitHub!" alt="Typing SVG" /></h1>
+<h2 align="center"> 😎 a curious creator who loves turning ideas into interactive experiences 😎 </h2>
 
 <p align="center">
   <em>BCA final year Student 🎓 • Python Enthusiast 🐍 • Web an Ai explorer 🚀  • Open Source contributor 🌟 </em>
@@ -67,7 +67,11 @@
 Because coding isn’t just about the semicolons — it’s about the laughs, the caffeine, and the chaos in between.  
 
 
-| (https://media.giphy.com/media/3oEduSbSGpGaRX2Vri/giphy.gif) | (https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif) |(https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif) | (https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif) |
+<p align="center">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="150">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="150">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="150">
+</p>
 
 ---
 
