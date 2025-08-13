@@ -76,7 +76,7 @@
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
-
+<br><br>
 
 <!-- Badges -->
 ![Visitors](https://komarev.com/ghpvc/?username=YOURUSERNAME&color=blueviolet)
