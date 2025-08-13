@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AkashPoddar/AkashPoddar/main/assets/pic.png"  width="220">
+  <img [src="https://raw.githubusercontent.com/AkashPoddar/AkashPoddar/main/assets/pic.png"](https://github.com/neelAkash2005/neelAkash2005/blob/12b901ea74e552ad4f4d63fb4836e1218364f1a2/neelAkash2005)  width="220">
 </p>
 
 
