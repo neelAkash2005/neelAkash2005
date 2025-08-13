@@ -6,9 +6,11 @@
   <em>BCA final year Student 🎓 • Python Enthusiast 🐍 • Web and Ai explorer 🚀  • Open Source contributor 🌟 </em>
 </p>
 
+
 <p align="center">
- [ <img [src="https://raw.githubusercontent.com/AkashPoddar/AkashPoddar/main/assets/pic.png"](https://github.com/neelAkash2005/neelAkash2005/blob/12b901ea74e552ad4f4d63fb4836e1218364f1a2/neelAkash2005)  width="220">](https://octodex.github.com/images/hula_loop_octodex03.gif)
+  <img src="https://octodex.github.com/images/hula_loop_octodex03.gif" >
 </p>
+
 
 
 <h3 align="center" > Let's Learn and  Explore more ✈️ <br>  নমস্কার  <br> 🙏</h3>
