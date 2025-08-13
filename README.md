@@ -77,9 +77,7 @@ Because coding isn’t just about the semicolons — it’s about the laughs, th
 
 <p align="center">
   <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="150">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="150">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="150">
-</p>
+ </p>
 
 ---
 
