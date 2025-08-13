@@ -66,7 +66,8 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight)
 
 <!-- Streak Stats -->
-![GitHub Streak](https://streak-stats.demolab.com?user=YOURUSERNAME&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=YOURUSERNAME&theme=tokyonight&hide_border=true)
+
 
 <!-- GitHub Activity Graph -->
 [![Your Name's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOURUSERNAME&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
