@@ -6,13 +6,12 @@
   <em>BCA final year Student 🎓 • Python Enthusiast 🐍 • Web and Ai explorer 🚀  • Open Source contributor 🌟 </em>
 </p>
 
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AkashPoddar/AkashPoddar/main/assets/python-sticker.png"  width="220">
+  <img src="https://raw.githubusercontent.com/AkashPoddar/AkashPoddar/main/assets/python-sticker.png" alt="I Speak Fluent Python Sticker" width="220">
 </p>
 
 
-<h5 align="center"> Let's Learn and  Explore more ✈️  নমস্কার 🙏</h5>
+<h5 align="center" style = "color: blue"> Let's Learn and  Explore more ✈️ <br>  নমস্কার 🙏</h5>
 
 ---
 
