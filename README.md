@@ -6,8 +6,8 @@
   <em>BCA final year Student 🎓 • Python Enthusiast 🐍 • Web and Ai explorer 🚀  • Open Source contributor 🌟 </em>
 </p>
 
-<p align="center" width="200" height="100">
-![Hula Loop Octocat](https://octodex.github.com/images/hula_loop_octodex03.gif)
+<p align="center" >
+<img src="https://octodex.github.com/images/hula_loop_octodex03.gif" width="200" height="100" />
 </p>
 
 
