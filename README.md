@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img [src="https://raw.githubusercontent.com/AkashPoddar/AkashPoddar/main/assets/pic.png"](https://github.com/neelAkash2005/neelAkash2005/blob/12b901ea74e552ad4f4d63fb4836e1218364f1a2/neelAkash2005)  width="220">
+ [ <img [src="https://raw.githubusercontent.com/AkashPoddar/AkashPoddar/main/assets/pic.png"](https://github.com/neelAkash2005/neelAkash2005/blob/12b901ea74e552ad4f4d63fb4836e1218364f1a2/neelAkash2005)  width="220">](https://octodex.github.com/images/hula_loop_octodex03.gif)
 </p>
 
 
@@ -39,6 +39,13 @@
   <img src="https://img.shields.io/badge/Oracle%20SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
 </p>
 
+### 🛠️ IDEs/Editors
+<p align="left">
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sublime%20Text-FF9800?style=for-the-badge&logo=sublime-text&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" />
+</p>
 ---
 
 ### 🚀 What I'm Working On  
@@ -83,6 +90,4 @@ Because coding isn’t just about the semicolons — it’s about the laughs, th
 
 > ⚡ *Pro tip:* Caffeine first, compiler later.
 
-<svg viewBox="0 0 115 25" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 
-"https://yourusername.github.io/waves/wave.gif"
