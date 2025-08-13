@@ -4,7 +4,7 @@
 
 <p align="center">
   <em>BCA final year Student 🎓 • Python Enthusiast 🐍 • Web and Ai explorer 🚀  • Open Source contributor 🌟 </em>
-</p>
+</p> <br> <br>
 
 <p align="center" >
 <img src="https://octodex.github.com/images/hula_loop_octodex03.gif" width="400" height="300" />
