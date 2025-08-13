@@ -58,10 +58,15 @@
 ---
 
 ### 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AkashPoddar&show_icons=true&theme=tokyonight" alt="GitHub stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AkashPoddar&theme=tokyonight" alt="GitHub streak"/>
-</p>
+
+!(https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight)
+
+
+!(https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight)
+
+<!-- Streak Stats -->
+!(https://streak-stats.demolab.com?user=YOURUSERNAME&theme=tokyonight&hide_border=true)
+
 
 ---
 
