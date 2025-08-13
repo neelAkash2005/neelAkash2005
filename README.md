@@ -1,5 +1,6 @@
 <h1 align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Hey+there%2C+I'm+Akash+👋;Welcome+to+my+GitHub!" alt="Typing SVG" /></h1>
-<h2 align="center"> 😎 a curious creator who loves turning ideas into interactive experiences 😎 </h2>
+<h2 align="center">  a curious creator  who loves turning ideas into interactive experiences  </h2>
+<br>
 
 <p align="center">
   <em>BCA final year Student 🎓 • Python Enthusiast 🐍 • Web and Ai explorer 🚀  • Open Source contributor 🌟 </em>
@@ -7,9 +8,10 @@
 
 
 <p align="center">
-  <img src="assets/coding.gif"  width="300">
+  <img src="https://files.oaiusercontent.com/file_00000000d1d861fbb750274fbd4121f5" alt="I Speak Fluent Python Sticker" width="220">
 </p>
 
+<h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Hey+there%2C+Let's+Learn+and+Explore+more+✈️;নমস্কার+🙏" alt="Typing SVG" /></h3>
 
 ---
 
@@ -82,3 +84,64 @@ Because coding isn’t just about the semicolons — it’s about the laughs, th
 ---
 
 > ⚡ *Pro tip:* Caffeine first, compiler later.
+
+<svg viewBox="0 0 115 25" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+
+<style>
+
+svg {
+  width:100vw;
+  position:fixed;
+  top:-5px;
+  transform: rotate(360deg);
+  overflow:visible;
+}
+
+.wave {
+  animation: wave 3s linear;
+  animation-iteration-count:infinite;
+  fill: #4478e3;  
+}
+
+.wave:hover {
+  fill: #0066cc;
+}
+
+#wave2 {
+  animation-duration:5s;
+  animation-direction: reverse;
+  opacity: .6
+}
+#wave3 {
+  animation-duration: 7s;
+  opacity:.3;
+}
+@keyframes wave {
+  to {transform: translateX(-100%);}
+}
+
+
+</style>
+
+ <defs> 
+    <filter id="goo">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="1" result="blur" />
+      <feColorMatrix in="blur" mode="matrix" values="
+           1 0 0 0 0  
+           0 1 0 0 0  
+           0 0 1 0 0  
+           0 0 0 13 -9" result="goo" />
+      <xfeBlend in="SourceGraphic" in2="goo" />
+          </filter>
+    <path id="wave" d="M 0,10 C 30,10 30,15 60,15 90,15 90,10 120,10 150,10 150,15 180,15 210,15 210,10 240,10 v 28 h -240 z" />
+  </defs> 
+  <use id="wave3" class="wave" xlink:href="#wave" x="0" y="-2" ></use> 
+  <use id="wave2" class="wave" xlink:href="#wave" x="0" y="0" ></use>
+<svg height="30" width="200" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <a xlink:href="https://github.com/aitikgupta" target="_top">
+  <text y="39" font-family="Times, serif" fill="grey" font-size="1px">
+    @yan-biswas0412
+  </text>
+  </a>
+</svg>
+</svg>
