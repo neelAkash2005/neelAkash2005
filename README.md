@@ -73,6 +73,9 @@
 <!-- GitHub Activity Graph -->
 [![Your Name's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOURUSERNAME&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 
 <!-- Badges -->
