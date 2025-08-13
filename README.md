@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-```markdown
-<!-- Profile README: Akash Poddar -->
+
+I am AKASH PODDAR<!-- Profile README: Akash Poddar -->
 
 <!-- Typing Intro -->
 <p align="center">
@@ -78,16 +78,7 @@
   <em>⭐ If you like something here, consider giving it a star — it really helps!</em>
 </p>
 
-<!-- Quick Setup Notes
-1) Create a repo named exactly like your GitHub username (e.g., AkashPoddar)
-2) Add this as README.md in that repo and commit
-3) Update all links and usernames if yours differ
--->
-```
-<!--
-**neelAkash2005/neelAkash2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
