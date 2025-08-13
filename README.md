@@ -7,11 +7,11 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AkashPoddar/AkashPoddar/main/assets/pic.png" https://github.com/neelAkash2005/neelAkash2005/blob/main/pic.png?raw=true width="220">
+  <img src="https://raw.githubusercontent.com/AkashPoddar/AkashPoddar/main/assets/pic.png"  width="220">
 </p>
 
 
-<h3 align="center" > Let's Learn and  Explore more ✈️ <br>  নমস্কার 🙏</h3>
+<h3 align="center" > Let's Learn and  Explore more ✈️ <br>  নমস্কার  <br> 🙏</h3>
 
 ---
 
