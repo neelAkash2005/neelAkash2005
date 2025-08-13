@@ -59,13 +59,13 @@
 
 ### 📊 GitHub Stats  
 
-!(https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight)
+!https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight
 
 
-!(https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight)
+!https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight
 
-<!-- Streak Stats -->
-!(https://streak-stats.demolab.com?user=YOURUSERNAME&theme=tokyonight&hide_border=true)
+
+!https://streak-stats.demolab.com?user=YOURUSERNAME&theme=tokyonight&hide_border=true
 
 
 ---
