@@ -73,8 +73,7 @@
 <!-- GitHub Activity Graph -->
 [![Your Name's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOURUSERNAME&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<!-- GitHub Trophies -->
-![trophy](https://github-profile-trophy.vercel.app/?username=YOURUSERNAME&theme=onedark&row=1&column=7)
+
 
 <!-- Badges -->
 ![Visitors](https://komarev.com/ghpvc/?username=YOURUSERNAME&color=blueviolet)
