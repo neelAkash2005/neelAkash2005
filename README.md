@@ -7,11 +7,11 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AkashPoddar/AkashPoddar/main/assets/python-sticker.png" alt="I Speak Fluent Python Sticker" width="220">
+  <img src="https://raw.githubusercontent.com/AkashPoddar/AkashPoddar/main/assets/pic.png" width="220">
 </p>
 
 
-<h5 align="center" style = "color: blue"> Let's Learn and  Explore more ✈️ <br>  নমস্কার 🙏</h5>
+<h4 align="center" style = "color: blue;"> Let's Learn and  Explore more ✈️ <br>  নমস্কার 🙏</h4>
 
 ---
 
