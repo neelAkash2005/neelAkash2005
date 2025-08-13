@@ -7,7 +7,7 @@
 </p>
 
 <p align="center" >
-<img src="https://octodex.github.com/images/hula_loop_octodex03.gif" width="200" height="100" />
+<img src="https://octodex.github.com/images/hula_loop_octodex03.gif" width="400" height="300" />
 </p>
 
 
