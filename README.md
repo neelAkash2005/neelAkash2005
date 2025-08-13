@@ -59,13 +59,15 @@
 
 ### 📊 GitHub Stats  
 
-https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight
+<!-- GitHub Readme Stats -->
+![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight)
 
+<!-- Most Used Languages -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight)
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight
+<!-- Streak Stats -->
+![GitHub Streak](https://streak-stats.demolab.com?user=YOURUSERNAME&theme=tokyonight&hide_border=true)
 
-
-https://streak-stats.demolab.com?user=YOURUSERNAME&theme=tokyonight&hide_border=true
 
 
 ---
