@@ -89,12 +89,18 @@
 ---
 
 ### 🌐 Connect With Me  
-<p align="left">
-  <a href="https://www.linkedin.com/in/akashpoddar10">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
+<p align="center">
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" 
+         alt="LinkedIn" width="40" height="40" />
   </a>
-  <a href="mailto:10akashpoddar2005@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  &nbsp;&nbsp;&nbsp;
+  <!-- Gmail -->
+  <a href="mailto:youremail@gmail.com">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" 
+         alt="Email" width="40" height="40" />
   </a>
 </p>
 
