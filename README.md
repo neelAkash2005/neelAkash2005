@@ -98,7 +98,7 @@
     </a>
 
     <!-- Gmail -->
-    <a href="mailto:youremail@gmail.com" style="display: inline-block; text-decoration: none; margin-right: 10px;">
+    <a href="mailto:10akashpoddar2005@gmail.com" style="display: inline-block; text-decoration: none; margin-right: 10px;">
         <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png"
             alt="Email" width="40" height="40" style="display: block;" />
     </a>
