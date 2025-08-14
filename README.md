@@ -90,10 +90,15 @@
 
 ### 🌐 Connect With Me  
 
-<a href="https://www.linkedin.com/in/aheli-poddar-263294216/"><img height="30" src="https://user-images.githubusercontent.com/48355572/207971352-d164e286-ffd8-4aac-a95b-88e499cdc386.svg"></a>&nbsp;&nbsp;
+<p>
+<a href="https://www.linkedin.com/in/akashpoddar10"><img height="30" src="https://user-images.githubusercontent.com/48355572/207971352-d164e286-ffd8-4aac-a95b-88e499cdc386.svg"></a>&nbsp;&nbsp;
 
-<a href="https://www.instagram.com/xaheli__/"><img height="30" src="https://user-images.githubusercontent.com/48355572/207971691-1a612ff3-ac3b-456a-8237-aa74a423b59c.svg"></a>&nbsp;&nbsp;
+<a href="mailto:10akashpoddar2005@gmail.com">
+  <img height="30" src="https://user-images.githubusercontent.com/48355572/207971388-bc09d6d7-59ad-4a6c-8d9c-32d2b7b9c3a5.svg">
+</a>&nbsp;&nbsp;
 
+<a href="https://www.instagram.com/_out_of_your_standard_/profilecard/?igsh=NXBpNzlnYmQzOHox"><img height="30" src="https://user-images.githubusercontent.com/48355572/207971691-1a612ff3-ac3b-456a-8237-aa74a423b59c.svg"></a>&nbsp;&nbsp;
+</p>
 
 
 ---
