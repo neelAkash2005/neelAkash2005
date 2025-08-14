@@ -93,9 +93,10 @@
 <p>
 <a href="https://www.linkedin.com/in/akashpoddar10"><img height="30" src="https://user-images.githubusercontent.com/48355572/207971352-d164e286-ffd8-4aac-a95b-88e499cdc386.svg"></a>&nbsp;&nbsp;
 
-<a href="mailto:10akashpoddar2005@gmail.com" style="display: inline-block; text-decoration: none; margin-right: 10px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Email" width="40" height="40" style="display: block;" />
-  </a>
+<a href="mailto:10akashpoddar2005@gmail.com">
+  <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail" width="40" height="40"/>
+</a>
+&nbsp;
 
 <a href="https://www.instagram.com/_out_of_your_standard_/profilecard/?igsh=NXBpNzlnYmQzOHox"><img height="30" src="https://user-images.githubusercontent.com/48355572/207971691-1a612ff3-ac3b-456a-8237-aa74a423b59c.svg"></a>&nbsp;&nbsp;
 </p>
