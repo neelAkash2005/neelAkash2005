@@ -15,7 +15,7 @@
 <h3 align="center" > Let's Learn and  Explore more ✈️ <br> <br> নমস্কার  <br> 🙏</h3>
 <br>
 
-<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="70" height="65">
+<img src="[https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif](https://media4.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cGQwZGpwcmQzMWJ3NGRqY2N4OWp5aTlsODI4bzNzYWsxbW1kdjJ5ZiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9dHM/QH9Xh2WOWh2jDGyHzE/200.webp)" width="90" height="85" align="center">
 ---
 
 ### 💡 About Me  
