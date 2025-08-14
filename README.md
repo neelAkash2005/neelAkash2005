@@ -93,21 +93,22 @@
 <p align="left">
 
   <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/akashpoddar10" target="_blank" style="display: inline-block; text-decoration: none; margin-right: 10px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="40" height="40" style="display: block;" />
+  <a href="https://www.linkedin.com/in/akashpoddar10" target="_blank" style="display:inline-block;text-decoration:none;margin-right:10px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="40" height="40" style="display:block;" />
   </a>
 
   <!-- Gmail -->
-  <a href="mailto:10akashpoddar2005@gmail.com" style="display: inline-block; text-decoration: none; margin-right: 10px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Email" width="40" height="40" style="display: block;" />
+  <a href="mailto: 10akashpoddar2005@gmail.com@gmail.com" style="display:inline-block;text-decoration:none;margin-right:10px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Email" width="40" height="40" style="display:block;" />
   </a>
 
   <!-- Instagram -->
-  <a href="https://www.instagram.com/_out_of_your_standard_/" target="_blank" style="display: inline-block; text-decoration: none;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="40" height="40" style="display: block;" />
+  <a href="https://www.instagram.com/_out_of_your_standard_/" target="_blank" style="display:inline-block;text-decoration:none;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="40" height="40" style="display:block;" />
   </a>
 
 </p>
+
 
 
 
