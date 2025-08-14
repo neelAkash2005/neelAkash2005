@@ -94,7 +94,7 @@
   <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" width="40" height="40"/>
 </a>
 &nbsp;
-<a href="mailto:youremail@gmail.com">
+<a href="mailto:10akashpoddar2005@gmail.com">
   <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail" width="40" height="40"/>
 </a>
 &nbsp;
