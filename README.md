@@ -14,7 +14,7 @@
 <h3 align="center" > Let's Learn and  Explore more ✈️ <br> <br> নমস্কার  <br> 🙏</h3>
 
 ---
-### 💡 About Me &nbsp;&nbsp;&nbsp;<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExazJ2N2o5MXV4ZzF3enRhb2J1NjZxZno5MjhnZGExaG1iZTVqamt4aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/MqzWzl8wG37I2SRlhN/giphy.gif" width="70" height="65">
+### 💡 About Me &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExazJ2N2o5MXV4ZzF3enRhb2J1NjZxZno5MjhnZGExaG1iZTVqamt4aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/MqzWzl8wG37I2SRlhN/giphy.gif" width="70" height="65">
 
 - 🎓 Final-year BCA student working on cool and innovative projects  
 - 🐍 Love building things in **Python** (automation, games, data stuff, you name it)  
