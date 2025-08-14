@@ -15,7 +15,7 @@
 
 ---
 
-### 💡 About Me       <img src="https://media.giphy.com/media/<someID>/giphy.gif" width="70" height="65">
+### 💡 About Me       <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExazJ2N2o5MXV4ZzF3enRhb2J1NjZxZno5MjhnZGExaG1iZTVqamt4aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/MqzWzl8wG37I2SRlhN/giphy.gif" width="70" height="65">
 - 🎓 Final-year BCA student working on cool and innovative projects  
 - 🐍 Love building things in **Python** (automation, games, data stuff, you name it)  
 - 🌱 Currently exploring **Web Development & AI**  
