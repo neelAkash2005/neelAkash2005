@@ -91,25 +91,33 @@
 ### 🌐 Connect With Me  
 
 <p align="left">
-    <!-- LinkedIn -->
-    <a href="https://www.linkedin.com/in/akashpoddar10" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
-            alt="LinkedIn" width="40" height="40" />
-    </a>
-    &nbsp;&nbsp;&nbsp;
-    <!-- Gmail -->
-    <a href="mailto:youremail@gmail.com">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png"
-            alt="Email" width="40" height="40" />
-    </a>
-    &nbsp;&nbsp;&nbsp;
-    <!-- Instagram -->
-<a href="https://www.instagram.com/_out_of_your_standard_/profilecard/?igsh=NXBpNzlnYmQzOHox" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png"
-        alt="Instagram" width="40" height="40" />
-</a>
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/akashpoddar10" target="_blank" 
+     style="text-decoration:none; display:inline-block; margin-right:12px;">
+    <span style="display:inline-block; background:#0A66C2; border-radius:12px; padding:8px;">
+      <img src="https://cdn.simpleicons.org/linkedin/FFFFFF" alt="LinkedIn" width="24" height="24" style="display:block;">
+    </span>
+  </a>
+
+  <!-- Gmail -->
+  <a href="mailto:10akashpoddar2005@gmail.com" 
+     style="text-decoration:none; display:inline-block; margin-right:12px;">
+    <span style="display:inline-block; background:#EA4335; border-radius:12px; padding:8px;">
+      <img src="https://cdn.simpleicons.org/gmail/FFFFFF" alt="Email" width="24" height="24" style="display:block;">
+    </span>
+  </a>
+
+  <!-- Instagram -->
+  <a href="https://www.instagram.com/_out_of_your_standard_/" target="_blank" 
+     style="text-decoration:none; display:inline-block;">
+    <span style="display:inline-block; background:#E4405F; border-radius:12px; padding:8px;">
+      <img src="https://cdn.simpleicons.org/instagram/FFFFFF" alt="Instagram" width="24" height="24" style="display:block;">
+    </span>
+  </a>
 
 </p>
+
 
 ---
 
