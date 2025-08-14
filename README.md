@@ -15,7 +15,7 @@
 
 ---
 
-### 💡 About Me  
+### 💡 About Me  <img src="https://giphy.com/stickers/powder-jaju-jubescomic-MqzWzl8wG37I2SRlhN" width="70" height="65">
 - 🎓 Final-year BCA student working on cool and innovative projects  
 - 🐍 Love building things in **Python** (automation, games, data stuff, you name it)  
 - 🌱 Currently exploring **Web Development & AI**  
