@@ -64,10 +64,10 @@
 ### 📊 GitHub Stats  
 
 <!-- GitHub Readme Stats -->
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight)
+![Akash's GitHub stats](https://github-readme-stats.vercel.app/api?username=neelAkash&show_icons=true&theme=tokyonight)
 
 <!-- Most Used Languages -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neelAkash&layout=compact&theme=tokyonight)
 
 
 
