@@ -14,7 +14,7 @@
 <h3 align="center" > Let's Learn and  Explore more ✈️ <br> <br> নমস্কার  <br> 🙏</h3> <br>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=akashpoddar10&label=Visitors&color=0e75b6&style=flat-square" alt="Visitor Count"/>
+  <img src="https://komarev.com/ghpvc/?username=neelAkash2005&label=You%20are%20visitor%20&color=0e75b6&style=flat-square" alt="Visitor Count"/>
 </p>
 
 -----
