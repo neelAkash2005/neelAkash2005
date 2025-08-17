@@ -11,9 +11,13 @@
 </p>
 
 
-<h3 align="center" > Let's Learn and  Explore more ✈️ <br> <br> নমস্কার  <br> 🙏</h3>
+<h3 align="center" > Let's Learn and  Explore more ✈️ <br> <br> নমস্কার  <br> 🙏</h3> <br>
 
----
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=akashpoddar10&label=Visitors&color=0e75b6&style=flat-square" alt="Visitor Count"/>
+</p>
+
+-----
 <table>
 <tr>
 <td>💡 About Me</td>
