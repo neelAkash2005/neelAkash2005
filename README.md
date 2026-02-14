@@ -71,6 +71,7 @@
 ![GitHub Streak](https://streak-stats.demolab.com?user=neelAkash2005&theme=tokyonight)
 
 <!-- Most Used Languages -->
+![Most Used Languages](./metrics.languages.svg)
 
 
 
