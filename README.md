@@ -68,10 +68,13 @@
 ### 📊 GitHub Stats  
 
 <!-- GitHub Readme Stats -->
-![Akash's GitHub stats](https://github-readme-stats.vercel.app/api?username=neelAkash2005&show_icons=true&theme=tokyonight&cache_seconds=1800)
+![GitHub Streak](https://streak-stats.demolab.com?user=neelAkash2005&theme=tokyonight)
 
 <!-- Most Used Languages -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neelAkash2005&layout=compact&theme=radical&langs_count=8)
+
+
+
+
 
 
 
