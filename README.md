@@ -68,7 +68,14 @@
 ### 📊 GitHub Stats  
 
 <!-- GitHub Readme Stats -->
-![GitHub Streak](https://streak-stats.demolab.com?user=neelAkash2005&theme=tokyonight)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=neelAkash2005&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=neelAkash2005&theme=tokyonight&hide_border=true" height="165" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=neelAkash2005&theme=tokyo-night&hide_border=true" />
+</div>
 
 
 <div align="center">
@@ -77,10 +84,9 @@
 <br><br>
 
 <!-- Badges -->
-![Visitors](https://komarev.com/ghpvc/?username=YOURUSERNAME&color=blueviolet)
-![Followers](https://img.shields.io/github/followers/YOURUSERNAME?label=Followers&style=social)
-![Stars](https://img.shields.io/github/stars/YOURUSERNAME?label=Stars&style=social)
-
+![Visitors](https://komarev.com/ghpvc/?username=neelAkash2005&color=blueviolet)
+![Followers](https://img.shields.io/github/followers/neelAkash2005?label=Followers&style=social)
+![Stars](https://img.shields.io/github/stars/neelAkash2005?label=Stars&style=social)
 
 
 
@@ -102,7 +108,6 @@
 ### 🤹 Developer's Playground
 
 Because coding isn’t just about the semicolons — it’s about the laughs, the caffeine, and the chaos in between.  
-
 
 <p align="center">
   <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="150">
