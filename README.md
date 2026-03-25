@@ -1,29 +1,39 @@
-# README.md
+# Hi there, I'm Neel Akash!
 
-# Project Title
+## 👨‍💻 About Me
 
-## GitHub Stats
+- I’m currently working on a blog project.
+- I’m passionate about technology and coding.
+- You can reach me at [LinkedIn](https://www.linkedin.com/in/neel-akash-2005/) and [Twitter](https://twitter.com/your-twitter-handle).
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=neelAkash2005&show_icons=true&theme=github_dark&align=center&title_color=white&icon_color=white&text_color=white&bg_color=0d1117&border_color=30363d)
+## 🛠️ Technologies and Tools
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neelAkash2005&layout=compact&theme=github_dark&align=center&title_color=white&icon_color=white&text_color=white&bg_color=0d1117&border_color=30363d)
+- Python
+- JavaScript
+- React
+- Git
 
-## Project Description
+## 📈 GitHub Stats
 
-A brief description of what this project does and who it's for.
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=neelAkash2005&show_icons=true&theme=github_dark)
 
-## Installation
+## 🔭 I’m currently working on
 
-Instructions on how to install and run the project.
+- My personal website
+- Contributing to open source
 
-## Usage
+## 🌱 I’m learning
 
-Examples of how to use the project.
+- Data Science
+- Machine Learning
 
-## Contributing
+## 💬 Ask me about
 
-Guidelines for contributing to the project.
+- Web Development
+- Open Source Contributions
 
-## License
+## 📫 How to reach me
 
-Information about the license.
+- Email: example@example.com
+
+Feel free to connect with me!
